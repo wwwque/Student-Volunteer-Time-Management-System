@@ -1,0 +1,5 @@
+DROP TABLE 活动人员名单;
+DROP TABLE 社团人员名单;
+DROP TABLE 活动;
+DROP TABLE 社团;
+DROP TABLE 学生;
