@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="工时管理系统.Properties.Settings.学生工时管理库ConnectionString"
+            connectionString="Data Source=.;Initial Catalog=学生工时管理库;Integrated Security=True"
+            providerName="System.Data.SqlClient" />
+    </connectionStrings>
+</configuration>
